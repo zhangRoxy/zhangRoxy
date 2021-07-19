@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @zhangRoxy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-zhangRoxy/zhangRoxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m zhang Roxy
+- 👀 I’m interested in programming, newest technologies, hiking in high mountains 
+- 🌱 I’m currently learning DBA(MySQL), K8s
+- 💞️ I’m looking to collaborate on web abd application developing
+- 📫 How to reach me--->>>>email: roxyzhang.china@gmail.com
