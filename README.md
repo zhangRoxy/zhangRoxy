@@ -1,5 +1,5 @@
 - 👋 Hi, I’m zhang Roxy
-- 👀 I’m interested in programming, newest technologies, hiking in high mountains 
-- 🌱 I’m currently learning DBA(MySQL), K8s
-- 💞️ I’m looking to collaborate on web and application developing
+- 👀 I’m interested in programming, newest technologies
+- 🌱 I’m currently learning DevOps related knowledge
+- 💞️ I’m looking to collaborate on web and application developing, Cloud and Big Data Operations
 - 📫 How to reach me--->>>>email: roxyzhang.china@gmail.com
